@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AppLocker</string>
+    <string name="title_service">Service</string>
+
+    <string name="new_fingerprint_enrolled_description">A new fingerprint was added to this device, so your password is required.</string>
+    <string name="use_fingerprint_in_future">Use fingerprint in the future</string>
+    <string name="use_fingerprint_to_authenticate_title">Use fingerprint to authenticate</string>
+    <string name="use_fingerprint_to_authenticate_key" >use_fingerprint_to_authenticate_key</string>
+    <string name="cancel">취소</string>
+    <string name="use_password">비밀번호</string>
+    <string name="sign_in">서명</string>
+    <string name="ok">확인</string>
+    <string name="password">비밀번호</string>
+    <string name="fingerprint_description">Confirm fingerprint to continue</string>
+    <string name="fingerprint_hint">터치 센서</string>
+    <string name="password_description">Enter your store password to continue</string>
+    <string name="purchase">Purchase</string>
+    <string name="fingerprint_not_recognized">지문이 인식되지 않았습니다. 다시 시도해주세요.</string>
+    <string name="fingerprint_success">지문이 인식되었습니다.</string>
+    <string name="item_title">White Mesh Pluto Backpack</string>
+    <string name="item_price">$62.68</string>
+    <string name="item_description">Mesh backpack in white. Black textile trim throughout.</string>
+    <string name="purchase_done">Purchase successful</string>
+</resources>

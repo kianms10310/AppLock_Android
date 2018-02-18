@@ -1,0 +1,5 @@
+<root>
+  <item name='android.content.Context MODE_WORLD_WRITEABLE'>
+    <annotation name='java.lang.annotation.Deprecated' />
+  </item>
+</root>
